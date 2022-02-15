@@ -1,15 +1,31 @@
 # share-notes
 An assignment
 
- 
-###### Update Notes ######
-### v0.1.0 ###
+## Install dependencies
+cd my-app &&
+yarn
+
+## Run dev server
+yarn start
+
+## Build
+yarn build
+
+## Update Notes
+###### v0.1.0
 * Created Project
 * Created README.md
-* Created package.json file
-* Created src/index.html file
+* Created package.json 
+* Created src/index.html 
 * Created build folder
-* Added .gitignore file
+* Added .gitignore 
 * Ignored build folder
+
+###### v0.2.0
+* Ignored node_modules folder
+* Installed react and react-dom package
+* Created yarn.lock 
+* Updated README.md
+* Updated package.json
 
 
