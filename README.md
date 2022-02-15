@@ -49,5 +49,10 @@ yarn build
 
   Test O.K :white_check_mark:
 
+###### v0.4.5
+* Created webpack.common.js, webpack.dev.js, webpack.prod.js in webpack folder
+* Installed webpack-merge
+* Updated webpack.config
 
+  Test O.K :white_check_mark:
 
