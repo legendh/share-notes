@@ -39,7 +39,7 @@ yarn build
 * Created webpack/webpack.config.js
 * Updated .gitignore, package.json and yarn.lock
 
-:white_check_mark: Test O.K
+Test O.K :white_check_mark:
 
 
 
