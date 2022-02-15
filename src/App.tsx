@@ -5,7 +5,6 @@ import testSvgImage from './test-checkmark.svg'
 import Counter from './Counter'
 
 export const App = () => {
-  const name = "HakanE"
   return (
     <>
       <h1>
