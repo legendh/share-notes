@@ -37,9 +37,8 @@ yarn build
 * Created tsconfig.json
 * Created src/App.tsx and src/index.tsx
 * Created webpack/webpack.config.js
-* Updated package.json and yarn.lock
+* Updated .gitignore, package.json and yarn.lock
 
-yarn start
 :white_check_mark: Test O.K
 
 
