@@ -1,6 +1,6 @@
 {
   "name": "share-notes",
-  "version": "0.5.0",
+  "version": "0.4.5",
   "description": "An assignment",
   "main": "index.js",
   "scripts": {
