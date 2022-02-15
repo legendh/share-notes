@@ -47,5 +47,7 @@ yarn build
 * Update Webpack Config: Added css-loader, style-loader, image, font
 * Created declarations.d.ts for png and svg format
 
+  Test O.K :white_check_mark:
+
 
 
