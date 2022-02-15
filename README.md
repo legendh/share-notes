@@ -41,5 +41,11 @@ yarn build
 
   Test O.K :white_check_mark:
 
+###### v0.4.0
+* Created src/style.css and imported App.tsx
+* Installed css-loader, style-loader and added webpack config
+* Update Webpack Config: Added css-loader, style-loader, image, font
+* Created declarations.d.ts for png and svg format
+
 
 
