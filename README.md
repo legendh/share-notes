@@ -2,7 +2,7 @@
 An assignment
 
 ## Install dependencies
-cd my-app &&
+cd share-notes &&
 yarn
 
 ## Run dev server
