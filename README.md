@@ -56,3 +56,10 @@ yarn build
 
   Test O.K :white_check_mark:
 
+  ###### v0.5.0
+  * Created Counter.tsx for testing react-refresh package
+  * Installed @pmmmwh/react-refresh-webpack-plugin, react-refresh
+  * Updated webpack/webpack.dev.js, package.json
+
+    Test O.K :white_check_mark:
+
